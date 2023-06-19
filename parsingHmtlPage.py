@@ -28,3 +28,8 @@ def parseHtmlPage():
 
 
 parseHtmlPage()
+
+# 1. url - ссылка на страницу
+# 2. tag - html тег [ span, div, a, ... ]
+# 3. attribute - айди или класс
+# 4. name - название класса или название айди
